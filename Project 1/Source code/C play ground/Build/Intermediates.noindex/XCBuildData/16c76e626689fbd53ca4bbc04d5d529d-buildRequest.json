@@ -1,0 +1,56 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d820505a922f829a8cc25388045767cefc53a44f40900f3eb9746090f8fca51c"
+    }
+  ],
+  "containerPath" : "/Users/mohamedkhalil/Desktop/Work/xcode_workspaces/C play ground/C play ground.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mohamedkhalil/Desktop/Work/xcode_workspaces/C play ground/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mohamedkhalil/Desktop/Work/xcode_workspaces/C play ground/Build/Products",
+      "derivedDataPath" : "/Users/mohamedkhalil/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mohamedkhalil/Library/Developer/Xcode/DerivedData/C_play_ground-heyfadyjzpuqjieonwhovnvjjkja/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mohamedkhalil/Library/Developer/Xcode/DerivedData/C_play_ground-heyfadyjzpuqjieonwhovnvjjkja/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mohamedkhalil/Desktop/Work/xcode_workspaces/C play ground/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
