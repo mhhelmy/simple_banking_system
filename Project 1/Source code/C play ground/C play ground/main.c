@@ -21,6 +21,7 @@ int main(int argc, const char * argv[])
   
   while (1)
   {
+  	// This is needed to do a clean-up for the input buffer.
     fflush(stdin);
 
     appStart();
